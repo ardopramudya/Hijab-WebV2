@@ -1,0 +1,105 @@
+.heros{
+    font-family: 'Roboto', sans-serif;
+    background-color: #33264E;
+}
+.capt1{
+    font-size: 20px;
+    color: #fff;
+    margin-left: -60px;
+}
+.capt1 h2{
+    margin-top: 30px;
+} 
+.btn1{
+    font-size: 15px;
+    height: fit-content;
+    width: fit-content;
+    background-color: #fff;
+    color:#000;
+    border: none;
+}
+.btn1:hover{
+    background-color: #D5C5F1;
+    color:#000;
+    border: none;
+}
+.btn1:focus{
+    background-color: #D5C5F1;
+    color:#000;
+    border: none;
+}
+.btn1:not(:disabled):not(.disabled):active{
+    background-color: #D5C5F1;
+    color:#000;
+    border: none;
+}
+.heros2 {
+    background-color: #D5C5F1;
+}
+.heros2 .container{
+    background-color: #D5C5F1;
+    padding-bottom: 30px;
+}
+.txt{
+    text-align: center;
+    padding-top: 20px;
+    color: #fff;
+    background-color: #D5C5F1;
+}
+.kosong{
+    background-color: #664F80;
+    color: #fff;
+    margin-top:50px;
+}
+.carda{
+    width: 10px;
+    background-color: #664f80;
+    border: none;
+    box-shadow: 8px 0px 16px 0px rgba(0,0,0,0.25);
+    text-align: center;
+}
+.populer{
+    margin-top: 10px;
+}
+.tulis{
+    padding: 0px;
+    margin: 0px;
+}
+.title{
+    margin-top: 20px;
+    text-align: center;
+    background-color: #d5c5f1;
+}
+.foot{
+
+    background-color: #33264E;
+}
+.colak{
+    margin-left: 50px;
+}
+.ffff{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ffff h6{
+    margin-left: 10px;
+    color: #fff;
+    margin-top: 10px;
+}
+.rowow{
+    margin-right: 10px;
+    padding-top: 20px;
+}
+.rowek h6{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #fff;
+}
+.colek h6{
+    margin-top:-5px;
+    margin-left: 45px;
+}
+.navigasi{
+    background-color: #33264E;
+    font-family: 'Roboto', sans-serif;
+}
